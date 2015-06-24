@@ -915,7 +915,7 @@ exports.commands = {
 	 * Jeopardy commands
 	 *
 	 * The following commands are used for Jeopardy in the Academics room
-	 * on the Smogon server.
+	 * on the Smogon server.b
 	 */
 
 
