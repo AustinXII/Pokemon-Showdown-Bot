@@ -113,7 +113,7 @@ exports.commands = {
 		this.say(tarRoom, arg);
 	},
 	js: function (arg, user, room) {
-		if (user.userid !== 'gogoplata || 'austin') return false;
+		if (user.userid !== 'gogoplata' || 'austin') return false;
 		try {
 			let result = eval(arg.trim());
 			this.say(room, JSON.stringify(result));
